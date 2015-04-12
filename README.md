@@ -1,6 +1,8 @@
 # Exploratory Data Analysis - Course Project 1
 
-This repository is for the Coursera's 'Exploratory Data Analysis' Course Project 1. In this repository you will find 8 files: 4 R-scripts to generate the required output for the course project and 4 PNG (bitmap) files that show the output for each of the R-scrips.
+This repository is for the Coursera's 'Exploratory Data Analysis' Course Project 1. In this repository you will find 8 files: 4 R-scripts to generate the required output for the course project and 4 PNG (bitmap) files that show the output for each of the R-scripts.
+
+! For the plots that show the day of the week (plots 2, 3 and 4): since I work on a computer with Dutch settings, the weekdays on the plots are shown in Dutch (do, vr, za instead of the English Thu, Fri, Sat)
 
 ## How to run the scripts
 
